@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "all": "^0.0.0",
+    "axios": "^1.7.2",
+    "http-proxy-agent": "^7.0.2",
+    "https-proxy-agent": "^7.0.4",
+    "node-fetch": "^2.6.7"
+  }
+}
